@@ -28,7 +28,7 @@
 
         <!-- Dependencies versions -->
         <assertj.version>3.2.0</assertj.version>
-        <camel.version>2.16.3</camel.version>
+        <camel.version>3.4.0</camel.version>
         <commons-configuration.version>1.9</commons-configuration.version>
         <eclipselink.version>2.6.3</eclipselink.version>
         <guava.version>19.0</guava.version>
